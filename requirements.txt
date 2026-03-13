@@ -1,0 +1,3 @@
+stanza
+spacy-stanza
+zemberek-python
